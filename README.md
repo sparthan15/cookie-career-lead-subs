@@ -4,3 +4,10 @@ We have employees, and an employee is associated with one seniority(Mid, Senior,
 2. A Mentor can have many Mentees, but a Mentee can only have one Mentor.
 3. A Mentee can change(unsubscribe) from a Mentor when ever he/she wants.
 4. A Mentor must publish events(Tech talk, code review..) to his/her Mentees
+
+## How to run
+please run unit test to see how the system should work.
+
+## Requirementes
+ 1. .NET 7
+ 2. C#
