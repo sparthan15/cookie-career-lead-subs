@@ -1,0 +1,12 @@
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\bin\Debug\net7.0\CareerLead.Domain.deps.json
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\bin\Debug\net7.0\CareerLead.Domain.dll
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\bin\Debug\net7.0\CareerLead.Domain.pdb
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\obj\Debug\net7.0\CareerLead.Domain.csproj.AssemblyReference.cache
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\obj\Debug\net7.0\CareerLead.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\obj\Debug\net7.0\CareerLead.Domain.AssemblyInfoInputs.cache
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\obj\Debug\net7.0\CareerLead.Domain.AssemblyInfo.cs
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\obj\Debug\net7.0\CareerLead.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\obj\Debug\net7.0\CareerLead.Domain.dll
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\obj\Debug\net7.0\refint\CareerLead.Domain.dll
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\obj\Debug\net7.0\CareerLead.Domain.pdb
+C:\Users\CarlosGamboa\Development\training\back-end\csharp\CareerLead.Domain\CareerLead.Domain\obj\Debug\net7.0\ref\CareerLead.Domain.dll
